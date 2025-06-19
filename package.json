@@ -1,0 +1,19 @@
+{
+  "name": "knowledge-scrapper",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^10.0.0",
+    "js-yaml": "^4.1.0",
+    "node-fetch": "^3.0.0",
+    "p-map": "^5.0.0",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^5.3.31",
+    "pdfreader": "^3.0.7",
+    "turndown": "^7.1.1"
+  }
+}
